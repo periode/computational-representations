@@ -1,0 +1,221 @@
+The text below is a contribution to an exhibition and
+congress called " (History of) Mailart in Eastern Europe" at
+the Staatliches Museum Schwerin (Germany) 1996
+
+by Joachim Blank, Internationale Stadt Berlin
+
+------- What is netart ;-)?
+
+The "Internet myth" is the result of a massive
+self-referentiality of our media landscape. Unlimited
+communication in a yet unknown conglomerate made of
+machines, cables and people. The exclusive networld of
+cyberpunks, scientists and artists has been superseded by
+the thirst for information of the industrialized mass
+consumption. Nevertheless, the cultural "stylistic howlers"
+of communication in data networks continue to exist not only
+in the underground.
+
+Artistic projects, strategy projects, discussion forums and
+autonomous network structures within the vast Internet, but
+remote from the glossy, dust-free surfaces, show interesting
+beginnings for an alternative use of this medium.
+
+--- Netart vs. Art on the Net ---
+
+The art market has discovered the net for the distribution
+of art. It uses the net to promote art just like ordinary
+companies. Gallerists, museums and other art brokers provide
+information about their artists, exhibitions and events. For
+them, the net is nothing more than a big telephone book in
+which they too want to (have to) be represented.
+
+However, netart differs from art on the net. Art on the net
+is mostly nothing more than the documentation of art which
+is not created on the net, but rather outside it and, in
+terms of content, does not establish any relationship to the
+net. Netart functions only on the net and picks out the net
+or the "netmyth" as a theme. It often deals with structural
+concepts: A group or an individual designs a system that can
+be expanded by other people. Along with that is the idea
+that the collaboration of a number of people will become the
+condition for the development of an overall system. netart
+projects without the participation of external persons are
+perhaps interesting concepts, but they do not manifest
+themselves as a collective creativity in the net (Dieter
+Daniels, http://www.hgb-lepzig.de/theorie/mailart.htm). The
+idea is fundamental, but dubious without media-specific
+translation and without participation of other people. For
+all netart projects there is a retraceable starting point,
+an author, so to speak. Nevertheless, what develops from one
+idea of one single artist with the collaboration of many
+others, is incalculable. Like the incentive of gambling,
+here too the openness, the curiosity about an imaginary end,
+the exciting challenge of taking part in such projects. And
+that with a medium like Internet, which makes a direct form
+of intervention possible at the same time on different
+levels of communication (text, sound, picture, motion
+picture, real time).
+
+
+--- Approaches to a Typology of netart ---
+
+There are different manifestations of netart on the
+Internet. Common to them all is the extension of
+communications networks, that is to say, logical networks
+within the physically existing telecommunications systems.
+In the process two different approaches come to light:
+
+1. Context Systems
+
+Context systems like "The Thing", "t0", "Internationale
+Stadt " a.o. go back to the idea of developing perceptible
+claims for artistic-cultural activities on the net, and to
+do this not as an individual, but as a collective group
+projects.
+
+Independent structural projects form a context, an art
+platform for non-commercial netactivities of the most
+diverse kind. Infrastructures of these kinds are mostly in
+the hands of the operators themselves, with their own
+projects and subject matter; they are users of their own
+structure. That is ultimately also the motivation, to invest
+a lot of energy in building up of such structures.
+
+The motivation to build up Internet infrastructures goes
+back to the interdependent relationship of providers and
+sponsors who enable artists access to the net. Parking
+oneself at a commercial Internet provider has a high price:
+
+Commercial Internet providers use artists projects to attain
+higher viewing figures and use them for advertising.
+Moreover, the space for technically creative experiments is
+most often limited. For the system administrators make the
+final judgement for all netprojects. They decide what is
+technically realizable and what is desirable in the
+interests of netoperators. For that reason artists opt to
+work with their own capital so that they do not have to fall
+back on borrowed funds.
+
+The intention of these context systems is the development of
+communities. Real as well as virtual communities are
+developed only by way of identification with the system
+visible in the net and its operator groups, well-knowing
+that at the same time every active user can become a
+perceptible component. In this sense, viewed hierarchically,
+the structure-giver and active users are on the same level.
+Of course, comparisons with the relation between curator and
+artist, or gallery and artist, or museum and artist come to
+mind. In this case the art institutions have little model
+function as art brokers, but the net as a free medium of
+distribution does. Unlike the mass media, the Internet has
+developed its popularity through the awareness of a constant
+give and take of its users. The expression of networks,
+namely to form a processual platform of communication and
+information, can with respect to context systems be summed
+up in two short formulas: structure=content and net=art.
+
+
+Exemplary Projects:
+
+The Thing New York (http://www.thing.net/thingnyc) The Thing
+Vienna (http://www.thing.at) International City Federation
+(http://www.icf.de) desk.nl (http://www.desk.nl) Obsolete
+(http://www.obsolete.com) Public Netbase
+(http://www.tO.or.at) Ludmilla (http://www.kud-fp.si) etc.
+
+
+2. Researchers, Troublemakers, Individual Perpetrators
+
+Unlike context systems, individual netartists or groups in
+the net operate without having to take into account the
+visitors on the Web sites or the limits of the
+medium."Service" is the last thing on their minds. The
+Internet as a new medium is the tool of artistic projects.
+Often it has less to do with the Internet itself and more
+with the desires, hopes and aversions which a networked
+world arouses among so many people. Here the permanent
+online existence of a future communications society is now
+being put to the test. Catchwords like dislocation,
+identity, truth, belief, reality, territory which have
+become popular by way of the net are being taken up by net
+Artists and often radically processed. Here it is not so
+much a matter of the clarification of such terms as it is a
+matter of artistic interventions leading to confusions among
+virtual visitors.
+
+Netart does not have a tight visual language. It behaves
+rather like a chameleon. It is caught up in a constant
+process, reacting quickly and sensitively to changes. Netart
+itself may be short-lived too. For the Internet is a medium
+which is continuously in movement. Never before in history
+has the way of a medium from the time of implementation to
+the massive dissemination been so short as in the case of
+the Internet.
+
+If one observes the visual appearance of a lot of
+conventional Web sites somewhat more exactly over a longer
+period of time one may ascertain a "state of the art" in the
+design. What is conspicuous, for example, are the smoothed,
+shadowy icons and images. The underlain shadows suggest that
+the user is being produced on the monitor by way of the
+shadows and that it is the user who is beaming instead of
+the monitor. There is a series of other such creative
+features that recur on a number of Web sites. One seldom
+sees deliberate deviations, for most of the Web sites are
+trying to sell products, and exotic interface ideas should
+not keep from "clicking." Netartists as researchers of
+perception are free enough to look after such phenomena.
+Everything that allows an escape from the young, but
+tediously styled WWW is experimented with, from the Web
+sites in black and white to the complete abandonment of
+design. Netartists are investigating the conventions of the
+net and its virtual visitors by exceeding them.
+
+Even the hypertext inherent in the WWW is contextualized.
+Many dispense with hyperlinks right from the start, others
+use them in such an exaggerated way that any orientation is
+lost.
+
+So-called "fake" projects are also very popular. Netartists
+try to park themselves with them in other art territories
+without being exposed. For that they copy creative elements
+of a particular communications context and transfer them to
+their own projects. Products are offered that can never
+possibly exist, services are promised which no one can
+possibly keep. Lying is therefore explicitly allowed. In
+this way believers, unsuspecting surfers can become a
+component of a netart project. Through such projects,
+fundamental questions are raised about truth, the
+credibility of the exchange of information in a
+media-dominated society. Netartists are experimenting with
+the belief in the progress of techno culture and are working
+with its material - information and communication. They are
+using metaphors from the real world, pseudo-individualizing
+software and playing with the vanity of their virtual
+visitors.
+
+The Internet as a mirror of a neo-liberal capitalism is an
+extremely interesting experimental layout, full of
+inspiration for artists, hackers and other field reseachers.
+
+
+Exemplary Projects:
+
+http://www.hgb-leipzig.de/livesource/elive.htm
+http://www.jodi.org http://www.irational.org
+http://www.icf.de/neonurlaub http://namespace.autono.net
+
+
+Joachim Blank - Internationale Stadt Berlin -- ____ -----
+
+___ _ ---	D-10969 Berlin, Prinzessinenstr. 19-20 -
+----	Tel: +49 30 61697344 Fax: +49 30 61609342
+http://www.icf.de - ------------- --_	-- __ - ---
+http://www.documenta.de/without_addresses --- ____ ----- -__
+--- # distributed via nettime-l : no commercial use without
+permission # <nettime> is a closed moderated mailinglist for
+net criticism, # collaborative text filtering and cultural
+politics of the nets # more info: majordomo@icf.de and "info
+nettime" in the msg body # URL: http://www.desk.nl/~nettime/
+contact: nettime-owner@icf.de
