@@ -1,5 +1,6 @@
 # Computational Representations
 
+[**Resources**](https://github.com/periode/computational-representations/wiki/)
 
 **Instructor** [Pierre Depaz](p.depaz@filmuniversitaet.de)
 
@@ -10,7 +11,6 @@
 - 25.01 - 10:30 - 17:30
 - 31.01 - 10:30 - 17:30
 - 01.02 - 10:00 - 17:00
-
 
 **Description**
 
