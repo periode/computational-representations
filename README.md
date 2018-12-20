@@ -1,18 +1,18 @@
 # Computational Representations
 
 
-Instructor: [Pierre Depaz](p.depaz@filmuniversitaet.de)
+**Instructor** [Pierre Depaz](p.depaz@filmuniversitaet.de)
 
-Room: 2.044
+**Room** 2.044
 
-Schedule:
+**Schedule**
 - 24.01 - 10:30 - 17:30
 - 25.01 - 10:30 - 17:30
 - 31.01 - 10:30 - 17:30
 - 01.02 - 10:00 - 17:00
 
 
-Description:
+**Description**
 
 From digital image processing to connected devices and artificial intelligence, we are more and more inclined to imagine our surroundings through the lens of the computer. However, the fundamental tension between continuous aspect of our lived, immediate, analog experience and the digital, discreet logic of software and hardware cannot be avoided, and can have increasing ramifications.
 
