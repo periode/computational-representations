@@ -4,7 +4,7 @@
 
 Quotes:
 
-> To say that some proposition is credible is, after all, to say that it is believed by an agent who, after exercising judgment and (possibly) intuition, chooses to accept the proposition as qorthy of his believing it.  
+> To say that some proposition is credible is, after all, to say that it is believed by an agent who, after exercising judgment and (possibly) intuition, chooses to accept the proposition as worthy of his believing it.  
 > p. 16
 
 > People viewed the arts, especially literature, as sources of intellectual nourishment and understanding, but today the arts are perceived largely as entertainments.  
