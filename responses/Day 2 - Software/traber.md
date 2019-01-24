@@ -1,0 +1,16 @@
+# {Software} Structures
+*I operate on the fundamental code structure as if it were a drawing - erasing, redrawing, reshaping lines, molding the surface through instinctual actions.*
+
+The text focuses mainly on the possibility of separating a concept from the implementation. In this case, the concept shall consists of a basic instruction to fullfill, but on the same page, leaving enough space for diverse interpretation. The creator of the concept describes the task roughly in natural language. The author argues: *"It provides the freedom to work at a more abstract level and to experience more variations on the core concept of the work. The decision to use natural language makes the work more open for interpretation by the draftsperson and also more accessible for the audience."*
+
+I like the idea to roughly sketch an idea, without keeping constraints in mind and then later on having the possiblity to interpret this concept on multiple different ways. It seems to me like a toolbox to make the seemingly impossible, happen.
+
+
+# On Software, or the Persistence of Visual Knowledge
+*Importantly, programmers are users: they create programs using editors, which are themselves software programs.*
+
+The author dives deep into the history of computers and the emergence of programming and programming languages. She argues that in the early days of programming, the computer relied heavily on the input of humans. There was an instructor, who gave instuctions to the operator, who operated the computer (rewiring etc.). This involved a deep understanding of how the machine operates by theses humans, interacting with the machine. 
+Nowadays we do not have a direct relation to the machines hardware anymore. There are abstraction layers, like the operating system, the graphical user interface or high-level programming languages themselves. We do not comprehend anymore, what is going on behind the surface / ui. But it also led to the "democratization" of computers, in the form, that it made the computer accessible to nearly anybody. 
+Simultaneously we think of understanding something, just because we understand the abstract layers, modern computers provide to us. Modern computers are *"creating an invisible system of visibility."* (p.28). We delete a file by moving it to the trash bin, but we do not know what exactly happens in the background.
+
+I am not sure, what I should think about the text and if I grasped the whole meaning, nevertheless, I try: I am of the opinion, that it can be harmful, to not knowing exactly what is going on behind a pretty interface (Data collection, Spyware etc.). But on the other hand, this kind of abstraction made computers accesible to a lot of people which furthermore led to a lot of advancements in technology and education. Nowadays even making high-level programming accessible to a lot of people from very diverse training fields. I think abstraction is very common for us humans, as we try to make a lot of things accessible to people, even though not all might grasp, what is going on on the inside.
