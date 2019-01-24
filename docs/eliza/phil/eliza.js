@@ -15,6 +15,9 @@ let keywords = [
     ["(.*)(you are)(.*)", [
         "YOU are (2)!"
     ]],
+    ["(.*)fuck you(.*)", [
+        "Fuck YOU!"
+    ]],
     ["(.*)", [
         "That's so stupid I don't even know what to answer."
     ]]
