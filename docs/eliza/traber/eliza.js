@@ -35,7 +35,7 @@ let keywords = [
 	     "What is it that you want?",
 	     "I'm sure you're here for a reason. Why is that?",
 	     "Yes ?",
-	     "Please continue."
+	     "Please continue.",
 	     "Mhhhm?",
 	     "Go on",
 	     "(nods)"
