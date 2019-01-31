@@ -1,0 +1,9 @@
+“projects without the participation of external persons are
+perhaps interesting concepts, but they do not manifest
+themselves as a collective creativity in the net”
+The text shows different forms of netart and how it can represent certain parts of society. I think it is very interesting in and the text makes a good point as netart is a form of interactive art on a level that we have not experienced before. Huge social experiments can be run and human behavior can be portrayed on maybe a more honest and global scale since the internet allows for international exchange and anonymity.
+
+
+“Technology is neither good nor bad, neither is it neutral”
+The text touches on the impact that the advancement of technology had on society and our personal lives. It describes how we are losing intimacy as we perceive this world more and more through a digital lense, in a way becoming more primal, overwhelmed with “lust, hunger and violence”. The author makes the point that many of the things we once admired lose their value as they can be digitally reproduced and calculated more efficiently. We should instead focus on what makes us human in order to move forward.
+I strongly agree with this text as it display a lot of issues that arise from the development of the internet and social media. The increased sense of isolation and the way that the internet has become a hostile environment is very accurately portrayed. I also agree with the change of what we once saw as important and how a lot of the internet’s convenient replacements are actually not the same as their analog counterpart. I especially like the conclusion as I see it as a optimistic and realistic look into the future.
