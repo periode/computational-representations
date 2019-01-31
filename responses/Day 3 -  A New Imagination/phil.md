@@ -1,4 +1,4 @@
-#A New Imagination
+# A New Imagination
 
 >First, man took a step back from his life-world, to imagine it. Then, man stepped back from the imagination, to describe it. Then, man took a step back from the linear, written critique, to analyze it. And finally, owing to a new imagination, man projected synthetic images out of analysis.
 
@@ -7,7 +7,7 @@ Flusser points at how important imagination is for us to orient ourselves in the
 I had some problems understanding the following part. He is somehow explaining the impact of computer technology on our understanding of and discussion about imagination? Afterwards he is writing about the process of synthesizing images with a computer for eventually comparing that to the cave paintings he mentioned in the beginning. In the end I couldn't fully grasp Flussers differentiation of the imagination types and therefore look forward to our discussion.
 
 
-#Software Art
+# Software Art
 
 >Tracing concept art to artistic formalisms like twelve-tone music, Flynt argues that the structure or concept of those artworks is, taken for itself, aesthetically more interesting than the product of their physical execution. In analogy, we would like to define software art as art of which the material is software.
 
