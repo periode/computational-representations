@@ -23,7 +23,7 @@
 
 ### I think he wants to provoke with all these Sexexamples. Cause that is, maybe for some people, the most intimate of human beings.
 
-### In the End, I also agree with his Point, that moreover, we lost our sense and value of Intimacy. But I also see some god Examples for sharing moments of "pure Intimacy", where people are empathic, help each other and inspire each other. So I would argue that this change is a Crisis.
+### In the End, I also agree with his Point, that moreover, we lost our sense and value of Intimacy. But I also see some good Examples for sharing moments of "pure Intimacy", where people are empathic, help each other and inspire each other. So I would not argue that this change is a Crisis.
 
 
 # What is netart ? by Joachim Blank
